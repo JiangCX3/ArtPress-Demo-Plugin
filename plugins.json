@@ -1,0 +1,15 @@
+{
+  "plugin": "Artpress Demo Plugins",
+  "version": "0.0.1",
+  "author": "Artpress Team",
+  "author_url": "https://www.artpress-project.com",
+  "entry": "demo_plugins.main",
+  "registered_api": [
+    "panel.menu",
+    "templates.middleware",
+    "media.fullControl",
+  ],
+  "listen_in": [
+    "settings"
+  ]
+}
