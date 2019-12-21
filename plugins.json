@@ -7,7 +7,7 @@
   "registered_api": [
     "panel.menu",
     "templates.middleware",
-    "media.fullControl",
+    "media.fullControl"
   ],
   "listen_in": [
     "settings"
